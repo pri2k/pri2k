@@ -12,51 +12,67 @@ Hi, I'm Priya 👩‍💻 — a dual-degree IT student at ABV-IIITM Gwalior.
 
 ---
 
-## 🧠 My Skills
+## 🧠 Tech Stack
 
 ```mermaid
 mindmap
-  root((Skills))
+  root((Tech Stack))
+
     Languages
       Python
       Java
       C/C++
       SQL
       Dart
-      Javascript
-    Frameworks
-      React
-      Flask
-      Django
-      FastAPI
-      Streamlit
-      Node.js
-    UI
-      Material-UI
-      Bootstrap
-      Figma
-      Canva
-      Nicepage
-    AI/ML
-      PyTorch
-      TensorFlow
-      Plotly
-      Pandas
-      NumPy
-      Matplotlib
-      Seaborn
-      Scikit-Learn
-      Langgraph
-      Matlab
+      JavaScript
+
+    Frameworks & Libraries
+      Web
+        React
+        Node.js
+        Streamlit
+      Backend
+        Flask
+        Django
+        FastAPI
+
+    UI/UX
+      Design Tools
+        Figma
+        Canva
+        Nicepage
+      Libraries
+        Material-UI
+        Bootstrap
+
+    AI / ML / Data Science
+      Libraries
+        PyTorch
+        TensorFlow
+        Scikit-Learn
+        Pandas
+        NumPy
+      Visualization
+        Matplotlib
+        Seaborn
+        Plotly
+      Others
+        Langgraph
+        Matlab
+
     DevOps
-      Git
-      Docker
+      Version Control
+        Git
+      Containerization
+        Docker
+
     Cloud
       AWS
         S3
         EC2
         Load Balancer
         Elastic Beanstalk
-      Google Cloud Platform
+      GCP
+        Google Cloud Platform
         Google APIs
-    
+```
