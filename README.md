@@ -9,6 +9,8 @@ Hi, I'm Priya 👩‍💻 — a dual-degree IT student at ABV-IIITM Gwalior.
 - 💬 Ask me about making chatbots, ML model fine-tuning, or automation. 
 - 😄 Pronouns: She / Her  
 - ⚡ Fun fact: I speak as many languages as I code in.
+- 🌐 You can check out my [portfolio website](https://pri2k.github.io/Portfolio)
+
 
 ---
 
